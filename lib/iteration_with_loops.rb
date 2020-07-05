@@ -3,8 +3,7 @@ array_of_arrays = [
   [4,5,6],
   [7,8,9]
 ]
-def find_even_values(array_of_arrays)
+def find_even_values(src)
+  while row_index
   
-  # Output all even values in each nested array
-
 end
